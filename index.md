@@ -14,3 +14,10 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 Evidently adding triplet accent marks offsets something and shows the code instead of executing it
+
+Not sure where I'm supposed to be adding the checklist, but here goes
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Adding lines and such these boxes are treated like bullets and are auto-added
